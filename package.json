@@ -7,7 +7,7 @@
   },
   "description": "A pure JavaScript implementation of the AES block cipher and all common modes of operation.",
   "devDependencies": {
-    "nodeunit": "^0.9.1"
+    "nodeunit": "^0.11.3"
   },
   "main": "index.js",
   "scripts": {
